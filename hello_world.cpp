@@ -2,6 +2,7 @@
 #include <cstdlib>
 
 // mega cringe code, aaaaahahahahahahah, sup
+// new comment
 int main()
 {
     std::string name;
