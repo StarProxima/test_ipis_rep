@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 
-// cringe code
+// mega cringe code, aaaaahahahahahahah, sup
 int main()
 {
     std::string name;
