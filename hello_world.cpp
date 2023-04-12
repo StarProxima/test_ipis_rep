@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 
+// cringe code
 int main()
 {
     std::string name;
